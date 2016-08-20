@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who am I
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Tough Programmer
+터프 프로그래머
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[growingdever@gmail.com](mailto:growingdever@gmail.com)
